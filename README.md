@@ -19,7 +19,7 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah **Web Programming**, dengan
 - **Backend** : PHP Native  
 - **Frontend** : HTML + Tailwind CSS (CDN)  
 - **Database** : MySQL  
-- **Web Server** : Apache (Laragon / XAMPP)  
+- **Web Server** : Apache (Laragon)  
 - **Version Control** : Git  
 
 ---
