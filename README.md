@@ -48,9 +48,6 @@ gudang-crud/
 
 ---
 
-## 🗄️ Database
-### Membuat Database
-```sql
 CREATE DATABASE gudang;
 USE gudang;
 
@@ -79,4 +76,6 @@ Dokumentasi screenshot digunakan untuk menunjukkan tampilan aplikasi CRUD Gudang
 
 ## 🎯 Kesimpulan
 Aplikasi **CRUD Gudang Barang** ini berhasil mengimplementasikan konsep dasar **Web Programming** menggunakan **PHP Native** dan **MySQL**. Dengan tambahan **Tailwind CSS**, aplikasi ini memiliki tampilan yang modern, responsif, dan user-friendly sehingga memudahkan pengguna dalam mengelola data barang di gudang.
+
+
 
